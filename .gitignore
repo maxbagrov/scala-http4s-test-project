@@ -1,0 +1,11 @@
+logs
+project/.idea
+project/project
+project/target
+target
+.history
+.sbtopts
+/.bsp
+/.idea/*
+/*.iml
+/.idea_modules
